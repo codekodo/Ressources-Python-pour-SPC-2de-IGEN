@@ -1,4 +1,4 @@
-Vous trouverez dans ce dossier des exemples de calepins illustrant diverses activités pour le programme de seconde. Ces calepins couvrent l’ensemble des attendus du programme de seconde.
+Vous trouverez dans ce dossier des exemples de calepins illustrant diverses activités pour le programme de seconde. Ces calepins couvrent l’ensemble des attendus du programme de seconde (voir sections "Capacité Numérique" du programme).
 
 ## 1. Programme
 Programme à lire [ici](http://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/98/9/spe634_annexe_1062989.pdf)

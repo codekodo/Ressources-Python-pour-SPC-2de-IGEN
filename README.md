@@ -1,7 +1,7 @@
 Vous trouverez dans ce dossier des exemples de calepins illustrant diverses activités pour le programme de seconde. Ces calepins couvrent l’ensemble des attendus du programme de seconde.
 
 ## 1. Programme
-Programme à lire [ici](http://cache.media.eduscol.education.fr/file/Consultations2018-2019/79/0/PPL18_Physique-chimie_COM_2e_1024790.pdf)
+Programme à lire [ici](http://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/98/9/spe634_annexe_1062989.pdf)
 
 ## 2. Capacités numériques du programme
 :snake: "Le langage de programmation conseillé est le langage Python".

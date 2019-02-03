@@ -4,7 +4,7 @@ Vous trouverez dans ce dossier des exemples de calepins illustrant diverses acti
 Programme à lire [ici](http://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/98/9/spe634_annexe_1062989.pdf)
 
 ## 2. Capacités numériques du programme
-:snake: "Le langage de programmation conseillé est le langage Python".
+🐍 "Le langage de programmation conseillé est le langage Python".
 
 Python peut s'utiliser dans de nombreux contextes et s'adapter à tout type d'utilisation grâce à des bibliothèques spécialisées. Il est particulièrement répandu dans le monde scientifique, et possède de nombreuses extensions destinées au calcul numérique.
 

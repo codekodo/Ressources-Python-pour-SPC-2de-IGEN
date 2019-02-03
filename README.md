@@ -5,7 +5,8 @@ Programme à lire [ici](http://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2
 
 ## 2. Capacités numériques du programme
 :snake: "Le langage de programmation conseillé est le langage Python".
-Le language de programmation choisi est Python. Python peut s'utiliser dans de nombreux contextes et s'adapter à tout type d'utilisation grâce à des bibliothèques spécialisées. Il est particulièrement répandu dans le monde scientifique, et possède de nombreuses extensions destinées au calcul numérique.
+
+Python peut s'utiliser dans de nombreux contextes et s'adapter à tout type d'utilisation grâce à des bibliothèques spécialisées. Il est particulièrement répandu dans le monde scientifique, et possède de nombreuses extensions destinées au calcul numérique.
 
 ### 2.1. Variabilité de la mesure d’une grandeur physique
 
